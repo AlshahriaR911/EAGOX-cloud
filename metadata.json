@@ -1,0 +1,5 @@
+{
+  "name": "EAGOX CLOUD",
+  "description": "A modern web interface for browsing and managing files on EAGOX CLOUD. It allows users to view, upload, download, and delete files and folders with a clean, responsive, and dark-themed UI.",
+  "requestFramePermissions": []
+}
